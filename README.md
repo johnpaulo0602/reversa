@@ -11,6 +11,10 @@ Reversa is a specification reverse-engineering framework. Install it inside a le
 
 ---
 
+![Reversa installer](https://raw.githubusercontent.com/sandeco/reversa/main/docs/img/reversa-installer.png)
+
+---
+
 ## Why Reversa exists
 
 Most production systems carry years of accumulated knowledge: implicit business rules, undocumented architectural decisions, critical logic buried in code nobody wants to touch. That knowledge exists, but it's trapped.
