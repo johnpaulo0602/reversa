@@ -1,10 +1,10 @@
 # Agentes
 
-Reversa coordina **6 Teams especializados** de agentes. Cada agente hace una cosa y la hace bien; cada Team agrupa a los agentes en torno a una fase del trabajo.
+Reversa coordina **7 Teams especializados** de agentes. Cada agente hace una cosa y la hace bien; cada Team agrupa a los agentes en torno a una fase del trabajo.
 
 ---
 
-## Los 6 Teams
+## Los 7 Teams
 
 | Team | Función | En el instalador |
 |------|---------|------------------|

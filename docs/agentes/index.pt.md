@@ -1,12 +1,12 @@
 # Agentes
 
-O Reversa coordena **6 Teams especializados** de agentes. Cada agente faz uma coisa só e faz bem; cada Team agrupa os agentes em torno de uma fase do trabalho.
+O Reversa coordena **7 Teams especializados** de agentes. Cada agente faz uma coisa só e faz bem; cada Team agrupa os agentes em torno de uma fase do trabalho.
 
 O orquestrador central (o próprio Reversa) coordena quem entra quando, em que ordem e em que ritmo. Mas você também pode acionar qualquer agente diretamente quando precisar.
 
 ---
 
-## Os 6 Teams
+## Os 7 Teams
 
 | Team | Função | No instalador |
 |------|--------|---------------|

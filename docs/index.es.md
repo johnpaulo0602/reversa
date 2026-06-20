@@ -16,16 +16,17 @@ Reversa es un framework de ingeniería inversa de especificaciones. Lo instalas 
 
 ## Inicio rápido
 
-En la raíz del proyecto heredado:
+En la raíz de tu proyecto:
 
 ```bash
 npx reversa install
 ```
 
-Luego abre el proyecto en tu agente de IA favorito y escribe:
+Luego abre el proyecto en tu agente de IA favorito y elige el flujo:
 
 ```
-/reversa
+/reversa       # descubrir y especificar un sistema existente
+/reversa-new   # convertir una idea nueva en PRD y specs SDD
 ```
 
 Eso es todo. Reversa toma el volante y te guía hasta el final.
@@ -56,9 +57,15 @@ Eso es todo. Reversa toma el volante y te guía hasta el final.
 
 - **Agentes**
 
-    5 Teams especializados: Core (siempre instalado), Migration, Code Forward, Pricing y Translators.
+    7 Teams especializados: Core, New Project, Code Forward, Migration, Documentation, Pricing y Translators.
 
     [:octicons-arrow-right-24: Ver agentes](agentes/index.md)
+
+- **Empezar un proyecto nuevo**
+
+    Pasa de una idea en una línea a personas, PRD y specs SDD evaluadas.
+
+    [:octicons-arrow-right-24: Usar /reversa-new](newproject/index.md)
 
 </div>
 

@@ -40,6 +40,13 @@ if (!command || command === '--help' || command === '-h') {
                        Opções: --format=svg|png  --output=<pasta>
                        Requer: npm install -g @mermaid-js/mermaid-cli
 
+  Fluxos principais no chat (após a instalação):
+    /reversa          Descobre e documenta um sistema existente
+    /reversa-new      Cria PRD e specs para um projeto novo
+    /reversa-forward  Implementa ou evolui código a partir das specs
+    /reversa-migrate  Planeja a migração de um sistema legado
+    /reversa-docs     Gera o mini-site visual da documentação
+
   Documentação: https://github.com/sandeco/reversa
   `);
   process.exit(0);

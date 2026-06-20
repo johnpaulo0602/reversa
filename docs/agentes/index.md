@@ -1,12 +1,12 @@
 # Agents
 
-Reversa coordinates **6 specialized Teams** of agents. Each agent does one thing and does it well; each Team groups agents around a phase of the work.
+Reversa coordinates **7 specialized Teams** of agents. Each agent does one thing and does it well; each Team groups agents around a phase of the work.
 
 The central orchestrator (Reversa itself) coordinates who enters when, in what order, and at what pace. But you can also trigger any agent directly when you need to.
 
 ---
 
-## The 6 Teams
+## The 7 Teams
 
 | Team | Role | In the installer |
 |------|------|------------------|
